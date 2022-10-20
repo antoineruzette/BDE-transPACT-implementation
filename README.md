@@ -1,4 +1,4 @@
-# Setting-up and adapting the transPACT platform on a HPC, the VlaamseSuperComputer (VSC)
+# Setting-up and adapting the transPACT platform to the VlaamseSuperComputer (VSC)
 <i> <b>Master's thesis - Laboratory for Biomolecular Discovery and Engineering</b>, MSc in Bioinformatics, VIB - KU Leuven, 2022, Antoine Ruzette, Joleen Masschelein</i>
 
 <b> Note that this is a private repository. Only persons who have been granted access should be reading this. </b> 
