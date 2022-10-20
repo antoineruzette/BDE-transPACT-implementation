@@ -27,7 +27,7 @@ Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD01000001
 
 - April 10, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/94224211181134871648805232 (available in .svg and .pdf format) 
 - April 22, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/62205120139364271650624817
-- June 21, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/8520111949424021655827199
+- June 21, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/8520111949424021655827199 <br><br><br>
 
 <b>Genome Mining Approach:</b> Phylogenetic analysis of publicly available PKSs from the antiSMASH ClusterBlast database, including GO485, AWB69 and related PKSs 
 <br><br>
