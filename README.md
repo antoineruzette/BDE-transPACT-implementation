@@ -15,8 +15,7 @@ A comprehensive tutorial is available at https://antoineruzy.github.io/transPACT
 
 <b> Results: </b> 
 
-<ul> **Query Targeted Approach:** Phylogenetic relationships of GO485 (Massilia flava), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference
-</ul>
+<ul> <b>Query Targeted Approach:</b> Phylogenetic relationships of GO485 (Massilia flava), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference
 
 Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD010000014), XB90 (Burkholderia pseudomallei MSHR4299 scaffold2), DO63 (Burkholderia pseudomallei strain BDE scaffold2 NZ_KN150938), BLU84 (Lysobacter enzymogenes), ASC93 (Massilia sp. Root335 LMCY010000011 DSM 102448), CR152 (Massilia violaceinigra B2 NZ_CP024608 DSM 19531) and K350 (Sporocytophaga myxococcoides). 
 Update on April 22, 2022: addition of Leinamycin, Guangnanmycin, Weishanmycin and Largimycin. 
@@ -26,8 +25,9 @@ Update on June 21, 2022: addition of K350.
 - April 22, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/62205120139364271650624817
 - June 21, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/8520111949424021655827199
 
-**Genome Mining Approach:** Phylogenetic analysis of publicly available PKSs from the antiSMASH ClusterBlast database, including GO485, AWB69 and related PKSs 
+<b>Genome Mining Approach:</b> Phylogenetic analysis of publicly available PKSs from the antiSMASH ClusterBlast database, including GO485, AWB69 and related PKSs 
 
 In order to reduce computing time and to concentrate efforts on C. udeis and M. flava related PKSs, only the 10 to 16 KS domains long PKSs have been selected from the antiSMASH ClusterBlast database. As a result, 511 trans-AT PKSs have been identified. The dendrogram visualizations 519 PKSs, including the 8 under study, can be accessed through an ITOL sharing link. 
 
 - July 19, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/85201185207360831658172247 
+</ul>
