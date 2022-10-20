@@ -11,11 +11,11 @@ All credits regarding the transPACT platform goes to the authors of the followin
 
 **Implementation:**
 
-A comprehensive tutorial is available at [https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT tutorial.html](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
+A comprehensive tutorial is available [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
 
 **Paper:**
 
-My master's thesis dissertation can be accessed at [https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette, Masschelein, 2022.pdf](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf).
+My master's thesis dissertation can be accessed [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf).
 
 <b> Results: </b> 
 
