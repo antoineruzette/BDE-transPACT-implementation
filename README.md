@@ -15,11 +15,11 @@ A comprehensive tutorial is available at https://antoineruzy.github.io/transPACT
 
 <b> Results: </b> 
 
-  **Query Targeted Approach:** Phylogenetic relationships of GO485 (Massilia flava), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference
+/* **Query Targeted Approach:** Phylogenetic relationships of GO485 (Massilia flava), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference
 
-Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD010000014), XB90 (Burkholderia pseudomallei MSHR4299 scaffold2), DO63 (Burkholderia pseudomallei strain BDE scaffold2 NZ_KN150938), BLU84 (Lysobacter enzymogenes), ASC93 (Massilia sp. Root335 LMCY010000011 DSM 102448), CR152 (Massilia violaceinigra B2 NZ_CP024608 DSM 19531) and K350 (Sporocytophaga myxococcoides). 
-Update on April 22, 2022: addition of Leinamycin, Guangnanmycin, Weishanmycin and Largimycin. 
-Update on June 21, 2022: addition of K350. 
+/* Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD010000014), XB90 (Burkholderia pseudomallei MSHR4299 scaffold2), DO63 (Burkholderia /* pseudomallei strain BDE scaffold2 NZ_KN150938), BLU84 (Lysobacter enzymogenes), ASC93 (Massilia sp. Root335 LMCY010000011 DSM 102448), CR152 (Massilia violaceinigra B2 /* NZ_CP024608 DSM 19531) and K350 (Sporocytophaga myxococcoides). 
+/* Update on April 22, 2022: addition of Leinamycin, Guangnanmycin, Weishanmycin and Largimycin. 
+/* Update on June 21, 2022: addition of K350. 
 
 - April 10, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/94224211181134871648805232 (available in .svg and .pdf format) 
 - April 22, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/62205120139364271650624817
