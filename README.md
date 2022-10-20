@@ -1,21 +1,25 @@
 # Implementing, adapting and applying the transPACT software on the VlaamseSuperComputer (VSC)
 <i> <b>Master's thesis - Laboratory for Biomolecular Discovery and Engineering</b>, MSc in Bioinformatics, VIB - KU Leuven, 2022, Antoine Ruzette, Joleen Masschelein</i>
 
-All credits regarding the transPACT platform goes to the authors of the following repository: https://github.com/chevrm/transPACT. 
+All credits regarding the transPACT platform goes to the authors of the following repository: https://github.com/chevrm/transPACT.
+<br><br>
 
 **Goal of the project:** 
 - Use the transPACT freeware as an evolutionary comparison between query KS sequences and KS sequences of reference
 - Functional annotation of the query KS sequences 
 - Identification of the phylogenic relations of the query KS sequences (through the generation of a dendrogram phylogeny)
 - Genome mining approach: phylogenetic assessment of the 2000 PKS that are publicly available on the antiSMASH database
+br><br>
 
 **Implementation:**
 
 A comprehensive tutorial is available [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
+<br><br>
 
 **Paper:**
 
 My master's thesis dissertation can be accessed [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf).
+<br><br>
 
 <b> Results: </b> 
 
