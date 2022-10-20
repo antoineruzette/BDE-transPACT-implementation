@@ -9,6 +9,9 @@ All credits regarding the transPACT platform goes to the authors of the followin
 - Identification of the phylogenic relations of the query KS sequences (through the generation of a dendrogram phylogeny)
 - Genome mining approach: phylogenetic assessment of the 2000 PKS that are publicly available on the antiSMASH database
 
+**Implementation:**
+A comprehensive tutorial is available at https://antoineruzy.github.io/transPACT_tutorial/. 
+
 
 <b> Results: </b> 
 
