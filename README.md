@@ -13,6 +13,10 @@ All credits regarding the transPACT platform goes to the authors of the followin
 
 A comprehensive tutorial is available at https://antoineruzy.github.io/transPACT_tutorial/. 
 
+**Paper:**
+
+My master's thesis dissertation can be accessed at .
+
 
 <b> Results: </b> 
 
