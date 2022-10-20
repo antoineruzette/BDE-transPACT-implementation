@@ -11,7 +11,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
 
 **Implementation:**
 
-A comprehensive tutorial is available at https://antoineruzy.github.io/transPACT_tutorial/. 
+A comprehensive tutorial is available at [hi](https://antoineruzy.github.io/transPACT_tutorial/) 
 
 **Paper:**
 
