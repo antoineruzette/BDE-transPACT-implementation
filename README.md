@@ -14,7 +14,7 @@ br><br>
 **Implementation:**
 
 A comprehensive tutorial is available [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
-<br><br>
+<br>
 
 **Paper:**
 
