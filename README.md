@@ -32,9 +32,9 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <b> Results: </b>
 <hr style="border:2px solid blue">
 
-<ul> <b>Query Targeted Approach:</b> Phylogenetic relationships of GO485 (Massilia <i> flava </i>), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference <br><br>
+<ul> <b>Query Targeted Approach:</b> Phylogenetic relationships of GO485 (Massilia <i> flava </i>), AWB69 (Caballeronia <i> udeis </i>) and PBC (Pseudomonas <i> baetica </i>) with 647 KS sequences of reference <br><br>
 
-Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD010000014), XB90 (Burkholderia pseudomallei MSHR4299 scaffold2), DO63 (Burkholderia pseudomallei strain BDE scaffold2 NZ_KN150938), BLU84 (Lysobacter enzymogenes), ASC93 (Massilia sp. Root335 LMCY010000011 DSM 102448), CR152 (Massilia violaceinigra B2 NZ_CP024608 DSM 19531) and K350 (Sporocytophaga myxococcoides). 
+Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD010000014), XB90 (Burkholderia <i> pseudomallei </i> MSHR4299 scaffold2), DO63 (Burkholderia <i> pseudomallei </i> strain BDE scaffold2 NZ_KN150938), BLU84 (Lysobacter <i> enzymogenes </i>), ASC93 (Massilia sp. Root335 LMCY010000011 DSM 102448), CR152 (Massilia <i> violaceinigra </i> B2 NZ_CP024608 DSM 19531) and K350 (Sporocytophaga <i> myxococcoides </i>). 
 <br>Update on April 22, 2022: addition of Leinamycin, Guangnanmycin, Weishanmycin and Largimycin. 
 <br>Update on June 21, 2022: addition of K350. 
 
