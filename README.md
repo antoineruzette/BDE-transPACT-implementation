@@ -12,16 +12,19 @@ All credits regarding the transPACT platform goes to the authors of the followin
 - Genome mining approach: phylogenetic assessment of the 2000 PKS that are publicly available on the antiSMASH database <br>
 
 **Implementation:**
+<hr style="border:2px solid blue">
 
 A comprehensive tutorial is available [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
 <br>
 
 **Paper:**
+<hr style="border:2px solid blue">
 
 My master's thesis dissertation can be accessed [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf).
 <br><br>
 
-<b> Results: </b> 
+<b> Results: </b>
+<hr style="border:2px solid blue">
 
 <ul> <b>Query Targeted Approach:</b> Phylogenetic relationships of GO485 (Massilia flava), AWB69 (Caballeronia udeis) and PBC (Pseudomonas baetica) with 647 KS sequences of reference <br><br>
 
