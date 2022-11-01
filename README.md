@@ -8,10 +8,10 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <hr style="border:2px solid blue">
 <ul>
   
-  - Use the transPACT freeware as an evolutionary comparison between query KS sequences and KS sequences of reference
+  - Use the transPACT freeware as an evolutionary comparison between trans-AT query KS sequences and KS sequences of reference
   - Functional annotation of the query KS sequences 
   - Identification of the phylogenic relations of the query KS sequences (through the generation of a dendrogram phylogeny)
-  - Genome mining approach: identification of the phylogenetic relationships of the antiSMASH database i.e. about 3 000 000 domain sequences distributed across 2000 genomes
+  - Genome mining approach: identification of the phylogenetic relationships of the antiSMASH database i.e. about 3 000 000 domain sequences distributed across 1937 trans-AT polyketide bacterial cluster 
   <br><br>
   
 </ul>
