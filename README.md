@@ -24,7 +24,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
   <br><br>  
 </ul>
 
-**Paper:**
+**Dissertation:**
 <hr style="border:2px solid blue">
 
 <ul> 
