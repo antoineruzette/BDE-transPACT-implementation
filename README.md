@@ -10,13 +10,13 @@ All credits regarding the transPACT platform goes to the authors of the followin
 - Use the transPACT freeware as an evolutionary comparison between query KS sequences and KS sequences of reference
 - Functional annotation of the query KS sequences 
 - Identification of the phylogenic relations of the query KS sequences (through the generation of a dendrogram phylogeny)
-- Genome mining approach: phylogenetic assessment of the 2000 PKS that are publicly available on the antiSMASH database <br>
+- Genome mining approach: phylogenetic assessment of the 2000 PKS that are publicly available on the antiSMASH database <br><br>
 
 **Implementation:**
 <hr style="border:2px solid blue">
 
 A comprehensive tutorial is available [here](https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html). 
-<br>
+<br><br>
 
 **Paper:**
 <hr style="border:2px solid blue">
