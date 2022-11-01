@@ -44,7 +44,7 @@ Update on April 10, 2022: addition of DK441 (Aquimarina sp. AU58 NZ_OMPD01000001
 
 <b>Genome Mining Approach:</b> Phylogenetic analysis of publicly available PKSs from the antiSMASH ClusterBlast database, including GO485, AWB69 and related PKSs 
 <br><br>
-In order to reduce computing time and to concentrate efforts on C. udeis and M. flava related PKSs, only the 10 to 16 KS domains long PKSs have been selected from the antiSMASH ClusterBlast database. As a result, 511 trans-AT PKSs have been identified. The dendrogram visualizations 519 PKSs, including the 8 under study, can be accessed through an ITOL sharing link. 
+In order to reduce computing time and to concentrate efforts on C. <i> udeis </i> and M. <i> flava </i> related PKSs, only the 10 to 16 KS domains long PKSs have been selected from the antiSMASH ClusterBlast database. As a result, 511 trans-AT PKSs have been identified. The dendrogram visualizations 519 PKSs, including the 8 under study, can be accessed through an ITOL sharing link. 
 
 - July 19, 2022: rectangular and circular phylogenies: https://itol.embl.de/export/85201185207360831658172247 
 </ul>
