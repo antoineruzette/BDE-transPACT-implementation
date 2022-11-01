@@ -5,6 +5,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <br><br>
 
 **Goal of the project:** 
+<hr style="border:2px solid blue">
 - Use the transPACT freeware as an evolutionary comparison between query KS sequences and KS sequences of reference
 - Functional annotation of the query KS sequences 
 - Identification of the phylogenic relations of the query KS sequences (through the generation of a dendrogram phylogeny)
