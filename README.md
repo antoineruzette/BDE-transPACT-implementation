@@ -20,7 +20,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <hr style="border:2px solid blue">
 
 <ul>
-  A comprehensive tutorial is available <a href="https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html" target="_blank" rel="noopener noreferrer">here</a>.
+  A comprehensive tutorial is available <p><a href="https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html" target="_blank" rel="noopener noreferrer">here</a>.</p>
   <br><br>  
 </ul>
 
