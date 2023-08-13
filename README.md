@@ -20,7 +20,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <hr style="border:2px solid blue">
 
 <ul>
-  A comprehensive tutorial is available <a href="https://antoineruzy.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html">here</a>.
+  A comprehensive tutorial is available <a href="https://antoineruzette.github.io/BDE-transPACT-implementation/docs/TransPACT%20tutorial.html">here</a>.
   <br><br>  
 </ul>
 
@@ -28,7 +28,7 @@ All credits regarding the transPACT platform goes to the authors of the followin
 <hr style="border:2px solid blue">
 
 <ul> 
-  My master's thesis dissertation can be accessed <a href="https://antoineruzy.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf">here</a>.
+  My master's thesis dissertation can be accessed <a href="https://antoineruzette.github.io/BDE-transPACT-implementation/docs/paper/Ruzette,%20Masschelein,%202022.pdf">here</a>.
   <br><br>
 </ul>
 
